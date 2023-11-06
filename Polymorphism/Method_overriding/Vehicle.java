@@ -1,4 +1,4 @@
-package Polymorphism.Method_overriding;
+
 //method overriding
 public class Vehicle {
     String name="car";
